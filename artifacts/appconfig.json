@@ -1,0 +1,10 @@
+{
+  "name": "ming-test-extension",
+  "provider": "sap",
+  "description": "ming's test",
+  "version": "0.0.1",
+  "icon": "",
+  "dockerRegistry": "docker.io/mingzhang860612",
+  "helmChartVersion": "0.0.1",
+  "parameters": []
+}
